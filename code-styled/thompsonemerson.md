@@ -6,10 +6,10 @@
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
+  name     = 'Gilson Amorim';
+  title    = 'Desenvolvedor Java Full Stack';
   company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  location = 'São Paulo, SP';
 }
 
 class Skills extends SoftwareDeveloper {
@@ -19,4 +19,4 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+⭐️ From [gilsondmatos](https://github.com/gilsondmatos)
